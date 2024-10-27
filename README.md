@@ -1,4 +1,4 @@
-# CV-final-project
+# Classifier Guided Image Generation With DDPM
 This is the repository for Computer Vision final course project. We trained classifiers to guide DDPM image generation. 
 
 # The CV Final Project Notebook folder
@@ -34,4 +34,7 @@ In get_noisy_dataset.py, I defined some functions to help generate the dataset w
 In train_function.py, I defined the training and evaluation functions
 
 In train.py, I launched the training process for desired classifiers.
+
+# The Report PDF File
+You can view my report PDF file for more detailed information on my whole project, as well as some generated results! 
 
